@@ -1,1 +1,1 @@
-( )( )( )( )&nbsp&nbsp![alt](/aocgif1.gif)
+<!-- This is commented out. -->![alt](/aocgif1.gif)
