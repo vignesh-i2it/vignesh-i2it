@@ -1,1 +1,1 @@
-![alt](/aocgif1.gif)
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>![alt](/aocgif1.gif)
