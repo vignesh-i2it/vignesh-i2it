@@ -1,2 +1,2 @@
 
-                              ![alt](/aocgif1.gif)
+   ![alt](/aocgif1.gif)
